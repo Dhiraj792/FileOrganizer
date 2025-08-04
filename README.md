@@ -30,15 +30,15 @@ This Python project organizes your files from a selected folder (like `Downloads
 ---
 
 ## 📁 Folder Structure
-FileOrganizer/
-├── organize.py
-├── arrange/
-│ ├── Pictures/
-│ ├── Documents/
-│ ├── Spreadsheets/
-│ ├── Code/
-│ ├── Music/
-│ ├── Videos/
-│ └── Others/
+`FileOrganizer/`
+`├── organize.py`
+`├── arrange/`
+`│ ├── Pictures/`
+`│ ├── Documents/`
+`│ ├── Spreadsheets/`
+`│ ├── Code/`
+`│ ├── Music/`
+`│ ├── Videos/`
+`│ └── Others/`
 
 
